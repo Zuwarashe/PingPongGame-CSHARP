@@ -1,0 +1,17 @@
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\bin\Debug\net8.0-windows\PingPongGame.exe
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\bin\Debug\net8.0-windows\PingPongGame.deps.json
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\bin\Debug\net8.0-windows\PingPongGame.runtimeconfig.json
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\bin\Debug\net8.0-windows\PingPongGame.dll
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\bin\Debug\net8.0-windows\PingPongGame.pdb
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.Form1.resources
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.csproj.GenerateResource.cache
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.AssemblyInfoInputs.cache
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.AssemblyInfo.cs
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.csproj.CoreCompileInputs.cache
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.sourcelink.json
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.dll
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\refint\PingPongGame.dll
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.pdb
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\PingPongGame.genruntimeconfig.cache
+C:\Users\Zuwa\source\repos\PingPongGame\PingPongGame\obj\Debug\net8.0-windows\ref\PingPongGame.dll
